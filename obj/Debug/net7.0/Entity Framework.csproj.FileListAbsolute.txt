@@ -1,0 +1,26 @@
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/appsettings.Development.json
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/appsettings.json
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/Entity Framework
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/Entity Framework.deps.json
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/Entity Framework.runtimeconfig.json
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/Entity Framework.dll
+/Users/edgarbeltran/Documents/Entity Framework/bin/Debug/net7.0/Entity Framework.pdb
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.csproj.AssemblyReference.cache
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.AssemblyInfoInputs.cache
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.AssemblyInfo.cs
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.csproj.CoreCompileInputs.cache
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets/msbuild.Entity Framework.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets/msbuild.build.Entity Framework.props
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Entity Framework.props
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Entity Framework.props
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets.build.json
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/staticwebassets.development.json
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/scopedcss/bundle/Entity Framework.styles.css
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.dll
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/refint/Entity Framework.dll
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.pdb
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/Entity Framework.genruntimeconfig.cache
+/Users/edgarbeltran/Documents/Entity Framework/obj/Debug/net7.0/ref/Entity Framework.dll
