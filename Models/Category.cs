@@ -1,15 +1,15 @@
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+// using System.ComponentModel.DataAnnotations;
+// using System.ComponentModel.DataAnnotations.Schema;
 
 namespace projectef.Models;
 
-[Table("Category")]
+// [Table("Category")]
 public class Category
 {
-  [Key]
+  // [Key]
   public Guid CategoryId { get; set; }
-  [Required]
-  [MaxLength(150)]
+  // [Required]
+  // [MaxLength(150)]
   public string name { get; set; }
 
   public string description { get; set; }
