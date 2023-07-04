@@ -10,9 +10,10 @@ public class Category
   public Guid CategoryId { get; set; }
   // [Required]
   // [MaxLength(150)]
-  public string name { get; set; }
+  public string Name { get; set; }
 
-  public string description { get; set; }
+  public string Description { get; set; }
+  public int Weight { get; set; }
   public virtual ICollection<Task> Tasks { get; set; }
 
 }
