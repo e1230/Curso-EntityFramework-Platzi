@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace projectef.Models;
 
+[Table("Task")]
 public class Task
 {
   [Key]
